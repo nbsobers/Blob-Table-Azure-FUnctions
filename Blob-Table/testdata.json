@@ -1,0 +1,16 @@
+﻿{
+    "WeddingGuests": [
+        {
+            "Id": 1,
+            "Name": "ABC",
+            "Email": "abc@abc.com",
+            "Attending": true
+        },
+        {
+            "Id:":  2,
+            "Name": "PQR",
+            "Email": "pqr@pqr.com",
+            "Attending": false
+        }
+    ]
+}
